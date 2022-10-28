@@ -12,6 +12,11 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+// Q1- Launch Firefox browser & navigate to https://rahulshettyacademy.com/AutomationPractice/
+// Try to Fetch the alert popup text.
+// Try to Dismiss the popup.
+// Try to enter some data on an alert popup.
+// Try to accept the popup.
 
 public class Quest1 
 {
